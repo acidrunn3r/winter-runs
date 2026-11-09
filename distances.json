@@ -1,0 +1,471 @@
+{
+  "calculated_on": "2026-11-10",
+  "engine": "OSRM public car routing / OpenStreetMap",
+  "method": "Automobile route distances calculated before anonymizing starting points. Rounded to nearest kilometre. No live traffic; toll roads permitted; no ferries in returned routes. Starting points intentionally omitted.",
+  "tracks": {
+    "0": {
+      "name": "Тропикана / Кранкино",
+      "lat": 55.914317,
+      "lon": 37.147132,
+      "source": "https://raceweek.ru/track/avtodrom-krankino-tropikana/",
+      "note": "До точки трассы в каталоге Raceweek; въезд уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 15379.3,
+          "rounded_km": 15,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 119.9647872,
+            "location_lon_lat": [
+              37.149051,
+              55.914312
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 183305.6,
+          "rounded_km": 183,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 119.9647872,
+            "location_lon_lat": [
+              37.149051,
+              55.914312
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "1": {
+      "name": "Дмитровлёд",
+      "lat": 56.40107,
+      "lon": 37.396491,
+      "source": "https://smartik.ru/dmitrov/post/246106189",
+      "note": "До ближайшей дороги к опубликованной точке ледовой площадки; сезонный съезд уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 73825,
+          "rounded_km": 74,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 6.327772335,
+            "location_lon_lat": [
+              37.396528,
+              56.401017
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 165862.8,
+          "rounded_km": 166,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 6.327772335,
+            "location_lon_lat": [
+              37.396528,
+              56.401017
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "2": {
+      "name": "СТВС Дмитров / Gymkhana",
+      "lat": 56.36316,
+      "lon": 37.494366,
+      "source": "https://motorcity.pro/events/motokross-26-27-aprelya-2025/",
+      "note": "До точки СТВС; въезд на конкретную конфигурацию уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 65849.2,
+          "rounded_km": 66,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 15.64067169,
+            "location_lon_lat": [
+              37.494202,
+              56.363053
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 168157.4,
+          "rounded_km": 168,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 15.64067169,
+            "location_lon_lat": [
+              37.494202,
+              56.363053
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "3": {
+      "name": "Moscow Raceway",
+      "lat": 55.994996,
+      "lon": 36.272081,
+      "source": "https://moscowraceway.ru/whereweare",
+      "note": "До точки назначения из официальной ссылки на автомобильный маршрут.",
+      "routes": {
+        "base1": {
+          "distance_m": 87011.1,
+          "rounded_km": 87,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 0.7491965017,
+            "location_lon_lat": [
+              36.272069,
+              55.994996
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 120772.6,
+          "rounded_km": 121,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 0.7491965017,
+            "location_lon_lat": [
+              36.272069,
+              55.994996
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "5": {
+      "name": "РаллиКроссАрена",
+      "lat": 55.392601,
+      "lon": 37.433223,
+      "source": "https://raceweek.ru/track/rallikrossarena/",
+      "note": "До точки автодрома, с122; точка из Raceweek.",
+      "routes": {
+        "base1": {
+          "distance_m": 95174.8,
+          "rounded_km": 95,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 91.09882255,
+            "location_lon_lat": [
+              37.43345,
+              55.393409
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 270572.9,
+          "rounded_km": 271,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 91.09882255,
+            "location_lon_lat": [
+              37.43345,
+              55.393409
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "6": {
+      "name": "ADM Raceway",
+      "lat": 55.564797,
+      "lon": 37.990787,
+      "source": "https://admraceway.ru/wp-content/uploads/2024/01/pamjatka-dlja-pilotov-i-uchastnikov.pdf",
+      "note": "До координат автодрома из памятки участникам; нужный въезд зависит от события.",
+      "routes": {
+        "base1": {
+          "distance_m": 87575,
+          "rounded_km": 88,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 22.17407238,
+            "location_lon_lat": [
+              37.990825,
+              55.564995
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 255174.1,
+          "rounded_km": 255,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 22.17407238,
+            "location_lon_lat": [
+              37.990825,
+              55.564995
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "7": {
+      "name": "Бородино",
+      "lat": 55.914157,
+      "lon": 37.662195,
+      "source": "https://raceweek.ru/track/avtodrom-borodino/",
+      "note": "До точки автодрома Бородино из Raceweek; не Бородинское поле.",
+      "routes": {
+        "base1": {
+          "distance_m": 40162.7,
+          "rounded_km": 40,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 60.7713741,
+            "location_lon_lat": [
+              37.663105,
+              55.914349
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 207761.8,
+          "rounded_km": 208,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 60.7713741,
+            "location_lon_lat": [
+              37.663105,
+              55.914349
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "8": {
+      "name": "Калининец / ЦСКА",
+      "lat": 55.555251,
+      "lon": 36.968997,
+      "source": "https://fasmo.su/cross/tpost/bf9yjixe91-28-sentyabrya-na-trasse-legendarnoi-tama",
+      "note": "До КПП №2, НЕ внутрь военной части; нужен согласованный пропуск.",
+      "routes": {
+        "base1": {
+          "distance_m": 76157.2,
+          "rounded_km": 76,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 0.1682541728,
+            "location_lon_lat": [
+              36.968999,
+              55.555252
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 201518.5,
+          "rounded_km": 202,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 0.1682541728,
+            "location_lon_lat": [
+              36.968999,
+              55.555252
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "9": {
+      "name": "ЦТВС Москва",
+      "lat": 55.654695,
+      "lon": 37.676045,
+      "source": "https://frenchpicnic.ru/",
+      "note": "До точки площадки из схемы проезда организатора фестиваля; нужный въезд уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 64817.6,
+          "rounded_km": 65,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 47.63132602,
+            "location_lon_lat": [
+              37.676752,
+              55.654848
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 232416.7,
+          "rounded_km": 232,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 47.63132602,
+            "location_lon_lat": [
+              37.676752,
+              55.654848
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "12": {
+      "name": "Конаково.Аэро",
+      "lat": 56.633223437698,
+      "lon": 36.879460905418,
+      "source": "https://konakovoaero.ru/contacts/",
+      "note": "До официальной точки отеля на территории аэродрома; не на ВПП.",
+      "routes": {
+        "base1": {
+          "distance_m": 131006.6,
+          "rounded_km": 131,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 29.62493969,
+            "location_lon_lat": [
+              36.879621,
+              56.633474
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 116762.8,
+          "rounded_km": 117,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 29.62493969,
+            "location_lon_lat": [
+              36.879621,
+              56.633474
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "13": {
+      "name": "СТК Вираж / Борихино",
+      "lat": 56.836191869039254,
+      "lon": 35.82699335584206,
+      "source": "https://viragetver.ru/index/trassa-kartodrom/0-5",
+      "note": "До метки на официальной карте СТК «Вираж» (раздел «Картодром»). Въезд на автокросс в Борихино уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 152660.6,
+          "rounded_km": 153,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 4.485495592,
+            "location_lon_lat": [
+              35.826934,
+              56.836168
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 47105.3,
+          "rounded_km": 47,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 4.485495592,
+            "location_lon_lat": [
+              35.826934,
+              56.836168
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "14": {
+      "name": "Тверской ипподром",
+      "lat": 56.8506,
+      "lon": 35.8997,
+      "source": "https://tver.bebeshka.info/tver/tverskoy-oblastnoy-ippodrom-904373/",
+      "note": "До точки ипподрома из адресного справочника; въезд на гонку уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 150114.5,
+          "rounded_km": 150,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 196.3398038,
+            "location_lon_lat": [
+              35.897116,
+              56.849548
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 43825.5,
+          "rounded_km": 44,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 196.3398038,
+            "location_lon_lat": [
+              35.897116,
+              56.849548
+            ],
+            "name": ""
+          }
+        }
+      }
+    },
+    "15": {
+      "name": "Лебёдушкино озеро / парк Павлова",
+      "lat": 56.78424,
+      "lon": 36.035716,
+      "source": "https://kalinin-adm.ru/files/adm/kultura/2025/Polozhenie_o_motofestivale_2025.pdf",
+      "note": "До точки парка из положения мероприятия администрации; въезд уточнить.",
+      "routes": {
+        "base1": {
+          "distance_m": 133391.4,
+          "rounded_km": 133,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 4.542104705,
+            "location_lon_lat": [
+              36.035743,
+              56.784202
+            ],
+            "name": ""
+          }
+        },
+        "base2": {
+          "distance_m": 49954.9,
+          "rounded_km": 50,
+          "ferry": false,
+          "destination_snap": {
+            "distance_m": 4.542104705,
+            "location_lon_lat": [
+              36.035743,
+              56.784202
+            ],
+            "name": ""
+          }
+        }
+      }
+    }
+  },
+  "unresolved": {
+    "4": "Illesh Pro: Вельяминово в старом файле не подтверждено; источники указывают разные площадки.",
+    "10": "МосАвтоСлалом: площадка зависит от события.",
+    "11": "Старбеево: точный въезд не установлен."
+  },
+  "bases": {
+    "base1": "База 1 — местоположение скрыто",
+    "base2": "База 2 — местоположение скрыто"
+  }
+}
